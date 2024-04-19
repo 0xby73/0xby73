@@ -2,7 +2,7 @@ Malware Developer
 <br>
 Web exploiter
 <br>
-C++ Bash
+Primary language is C++
 
 [Contact me](https://0xby73.github.io/contact.html)
 
