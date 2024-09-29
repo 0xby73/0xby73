@@ -7,7 +7,7 @@ Contact me
 <br>
 Discord: 0xby73
 <br>
-Xmpp: triptych@blah.im
+Xmpp: triptych@xmpp.is
 <br>
 Telegram: https://t.me/triptych0
 
