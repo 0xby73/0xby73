@@ -1,4 +1,4 @@
-Socket programmer
+Layer 2, 3 && 7 developer
 <br>
 C++ | x86
 
